@@ -1,3 +1,6 @@
+
+
+
 AWSTemplateFormatVersion: 2010-09-09
 Description: >-
   Password validation with a Lambda-backed custom resource
