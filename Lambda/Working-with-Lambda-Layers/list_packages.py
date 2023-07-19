@@ -1,6 +1,3 @@
-
-
-
 import pkg_resources
 
 
