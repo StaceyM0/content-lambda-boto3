@@ -1,13 +1,10 @@
-
-
-
 {
   "version": "0",
   "id": "c795db7d-0239-f083-da1e-6d3ba7ab8c9e",
   "detail-type": "CodeCommit Repository State Change",
   "source": "aws.codecommit",
   "account": "123456789012",
-  "time": "2019-03-15T14:40:40Z",
+  "time": "2023-03-15T14:40:40Z",
   "region": "us-east-1",
   "resources": ["arn:aws:codecommit:us-east-2:123456789012:ChangeNotification"],
   "detail": {
