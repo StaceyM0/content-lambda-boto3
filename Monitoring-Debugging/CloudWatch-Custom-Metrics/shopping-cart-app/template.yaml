@@ -1,6 +1,3 @@
-
-
-
 AWSTemplateFormatVersion: '2022-09-09'
 Transform: AWS::Serverless-2022-10-31
 Description: Shopping cart app
