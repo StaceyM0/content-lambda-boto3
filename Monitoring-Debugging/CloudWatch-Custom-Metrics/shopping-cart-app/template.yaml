@@ -1,11 +1,14 @@
-AWSTemplateFormatVersion: '2010-09-09'
-Transform: AWS::Serverless-2016-10-31
+
+
+
+AWSTemplateFormatVersion: '2022-09-09'
+Transform: AWS::Serverless-2022-10-31
 Description: Shopping cart app
 
 Globals:
   Function:
     Handler: app.lambda_handler
-    Runtime: python3.7
+    Runtime: python3.10
     Tracing: Active
     Timeout: 3
 
