@@ -1,6 +1,3 @@
-
-
-
 import decimal
 import json
 
